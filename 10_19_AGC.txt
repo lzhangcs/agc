@@ -1,0 +1,4 @@
+你好， CP需要给新用户设置Gift, Gift 是 1 month free App subscription. 请问他们是只要在https://developer.huawei.com/consumer/en/doc/distribution/promotion/3020101 
+设置好礼物外， 在code中的处理因为涉及到subscription, 需要用HMS IAP中的API来处理吗？ HMS IAP中又setTrail 和getTrail的API。还是需要CP重新code一个完全独立于IAP之外的Gift handle program来处理这个1 month free Gift?
+
+谢谢
